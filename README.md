@@ -19,7 +19,7 @@ Experienced cybersecurity professional and systems administrator with a Degree i
 ### 💼 Professional Experience Summary
 
 * **Security Lead/System Administrator** @ Oakland County Government
-  * Spearheaded vulnerability threat detection, endpoint monitoring via CrowdStrike, and PCI DSS compliance (up to 4.0.1) maintenance.
+  * Spearheaded vulnerability threat detection, endpoint monitoring via CrowdStrike, and PCI DSS compliance (up to 4.0.1) maintenance. I brought the vulnerability numbers down by 92% for Windows Servers by driving remediation efforts.
   * Automated server patching workflows and engineered PowerShell scripts for system administration and remediation.
 * **System Administrator** @ FedNat Insurance
   * Managed custom Windows Server and Azure environments under strict audit requirements and secure settings.
